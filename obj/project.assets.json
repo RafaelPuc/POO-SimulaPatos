@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fabio\\.nuget\\packages\\": {}
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\workspace\\POO\\SimulaPatos\\SimulaPatos.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\GitHub\\POO-SimulaPatos\\SimulaPatos.csproj",
       "projectName": "SimulaPatos",
-      "projectPath": "C:\\Users\\fabio\\workspace\\POO\\SimulaPatos\\SimulaPatos.csproj",
-      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\workspace\\POO\\SimulaPatos\\obj\\",
+      "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\POO-SimulaPatos\\SimulaPatos.csproj",
+      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafael\\Documents\\GitHub\\POO-SimulaPatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
